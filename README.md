@@ -4,7 +4,7 @@
 
 This repository contains a stunning 3D portfolio website built with Three.js and React.js. It utilizes the power of 3D graphics and animations to bring your content to life, providing an impressive and visually stunning way to showcase your skills and projects.
 
-The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!
+
 
 ### Through this project I learned:
 * ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
