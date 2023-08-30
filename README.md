@@ -10,6 +10,28 @@ The most impressive websites in the world use 3D graphics and animations to brin
 * TailwindCSS - a popular utility-first CSS styling framework
 * Framer Motion - the most popular library used to bring your React website to life with animations 
 
+### Installation & Setup Instructions
+Follow the steps below to set up the project on your local machine:
+
+#### ⚙️ 1. Clone this repository:
+
+    $ git clone https://github.com/Mara1395/3D_portfolio.git
+   
+    
+#### ⚙️ 2. Navigate to the project directory:
+   $ cd 3D_portfolio
+
+#### ⚙️ 3. Install the dependencies:
+    $ npm install
+    $ npm install -D tailwindcss postcss autoprefixer
+    $ npx tailwindcss init -p
+    
+#### ⚙️ 4. Start the development server:
+    $ npm start
+
+#### ⚙️ 5. Open your browser and visit:
+    [http://127.0.0.1:5173/](http://localhost:5173/)
+
 
 ## 🛠 Languages & Tools
 * ThreeJS
