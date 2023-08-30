@@ -2,8 +2,7 @@
 
 ## 📄 Introduction
 
-This repository contains a stunning 3D portfolio website built with Three.js and React.js. It utilizes the power of 3D graphics and animations to bring your content to life, providing an impressive and visually stunning way to showcase your skills and projects.
-
+Step into a world where your portfolio comes to life - this repository hosts a stunning 3D portfolio website meticulously crafted using Three.js and React.js. 
 
 
 ### Through this project I learned:
