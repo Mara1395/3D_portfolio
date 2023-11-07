@@ -1,4 +1,5 @@
 # 3D Portfolio
+![portfolio_cover](https://github.com/Mara1395/3D_portfolio/assets/104097778/22c1329c-2c30-487f-8fe9-f895812e9ef0)
 
 ## 📄 Introduction
 
@@ -10,6 +11,7 @@ Step into a world where your portfolio comes to life - this repository hosts a s
 * React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
 * TailwindCSS - a popular utility-first CSS styling framework
 * Framer Motion - the most popular library used to bring your React website to life with animations 
+![portfolio_experience](https://github.com/Mara1395/3D_portfolio/assets/104097778/44415477-c88c-4a76-b3d1-3412795d8e11)
 
 ### Installation & Setup Instructions
 Follow the steps below to set up the project on your local machine:
@@ -30,6 +32,8 @@ Follow the steps below to set up the project on your local machine:
 
 #### ⚙️ 5. Open your browser and visit:
     [http://127.0.0.1:5173/](http://localhost:5173/)
+    
+![portfolio_projects](https://github.com/Mara1395/3D_portfolio/assets/104097778/aaeeeca2-df8c-4069-9fc4-47b68bcb7f7e)
 
 
 ## 🛠 Languages & Tools
