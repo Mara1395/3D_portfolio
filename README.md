@@ -11,7 +11,7 @@ Step into a world where your portfolio comes to life - this repository hosts a s
 * React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
 * TailwindCSS - a popular utility-first CSS styling framework
 * Framer Motion - the most popular library used to bring your React website to life with animations 
-![portfolio_experience](https://github.com/Mara1395/3D_portfolio/assets/104097778/44415477-c88c-4a76-b3d1-3412795d8e11){:width="300px" height="200px"}
+![portfolio_experience](https://github.com/Mara1395/3D_portfolio/assets/104097778/44415477-c88c-4a76-b3d1-3412795d8e11)
 
 ### Installation & Setup Instructions
 Follow the steps below to set up the project on your local machine:
